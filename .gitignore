@@ -1,0 +1,18 @@
+# virtualenv
+/denv/
+
+# intermediary
+*.pyc
+*.swp
+
+# IDE
+.idea/
+
+# DB and migrations
+db.sqlite3
+/courses/migrations/
+/students/migrations/
+
+# dev server media
+/media/
+/static/

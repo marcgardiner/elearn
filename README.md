@@ -16,4 +16,3 @@ Framworks and 3rd Party libraries
 - django-embed-video==1.0.0
 - django-braces==1.8.1
 - django-memcache-status==1.0
- 
